@@ -19,4 +19,4 @@ Matthew H. Bailey, Collin Tokheim, Eduard Porta-Pardo et al.
 
 ### Pre and post processing of these data required
 
-Here is give viewers a taste of the code I can write to process and format data as necessary.  
+Here I give viewers a taste of the code I can write to process and format data as necessary.  
