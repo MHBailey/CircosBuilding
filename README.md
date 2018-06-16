@@ -5,7 +5,7 @@
 For many projects, I have been tasked to visualize genomics data.  Here is a compilation of object-oriented python scripts that I used to characterize and format my data to comply with the circos building platform found online at circos.ca (written by Martin Krzywinski). 
 
 
-### Publication worth circos plots
+### Publication worthy circos plots
 
 [Supplementary Figure 2](https://www.nature.com/articles/ng.3586) Protein-structure-guided discovery of functional mutations across 19 cancer types. Nat Gen 2016. Beifang Niu, Adam D Scott, Sohini Sengupta, Matthew H Bailey, Prag Batra, Jie Ning, Matthew A Wyczalkowski, Wen-Wei Liang, Qunyuan Zhang, Michael D McLellan, Sam Q Sun, Piyush Tripathi, Carolyn Lou, Kai Ye, R Jay Mashl, John Wallis, Michael C Wendl, Feng Chen & Li Ding
 
